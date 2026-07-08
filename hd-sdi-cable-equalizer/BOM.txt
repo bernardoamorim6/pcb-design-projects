@@ -1,0 +1,13 @@
+Partlist exported from C:/Users/berna/Documents/EAGLE/projects/untitled.sch at 03/05/2023 21:51
+
+Qty Value          Device         Package                  Parts                          Description                                           POPULARITY SPICEPREFIX
+2                  4MMSOCKET      4MM                      JP1, JP2                       4MM SOCKET                                                                  
+1                  C-EUC0805      C0805                    C9                             CAPACITOR, European symbol                            88         C          
+2                  PINHD-1X1      1X01                     GAIN_SEL, OP_CTL               PIN HEADER                                            64                    
+2                  PINHD-1X2      1X02                     BYPASS/SQ_ADJ, JP3             PIN HEADER                                            98                    
+8   C0402          C0402          0402                     C1, C2, C3, C4, C5, C6, C7, C8                                                                             
+1   GS3440GS3440_1 GS3440GS3440_1 QFN65P400X400X90-17T260N EQ4                            Adaptive Cable Equalizer                                                    
+1   HD-BNC         HD-BNC         034_1018_12G             SDI                            HD BNC 75 Ohm                                                               
+1   L0402          L0402          0402                     L1                                                                                                         
+3   R0402          R0402          0402                     R1, R2, R3                                                                                                 
+2   SMA132357      SMA132357      SMA                      SDO1, SDO2                     SMA 50 Ohm End Launch Jack Receptacle - Round Contact                       
