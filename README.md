@@ -29,12 +29,20 @@ condition HD-SDI (broadcast video) signals. Includes:
 - Complete Gerber output set (copper, soldermask, silkscreen,
   solder paste, drill/profile)
 
+![Top layer](./images/equalizer-top.jpg) | ![Bottom layer](./images/equalizer-bottom.jpg)
+
+(images generated from gerber files)
+
 ## PCB Manufacturing Exercise
 
 A design exercise focused on PCB fabrication constraints rather than
 circuit function: working through plated-through-hole size classes
 (per Eurocircuits manufacturing classes) and via teardrop optimization
 for manufacturability.
+
+![Top layer](./images/manufacturing-exercise-top.jpg) | ![Bottom layer](./images/manufacturing-exercise-bottom.jpg)
+
+(images generated from gerber files)
 
 ---
 
